@@ -133,6 +133,8 @@ const translations = {
         "Add one or more office locations or service regions here so families can quickly see where support is available.",
       office1Title: "Main Office",
       office1Text: "335 US Highway 9<br />Manalapan, NJ 07726",
+      mapTitle: "Find Us on the Map",
+      directions: "Get Directions",
     },
     footer: {
       about:
@@ -276,6 +278,8 @@ const translations = {
         "Agregue una o más ubicaciones de oficina o regiones de servicio para que las familias vean rápidamente dónde hay apoyo disponible.",
       office1Title: "Oficina Principal",
       office1Text: "335 US Highway 9<br />Manalapan, NJ 07726",
+      mapTitle: "Encuéntrenos en el mapa",
+      directions: "Cómo llegar",
     },
     footer: {
       about:
@@ -419,6 +423,8 @@ const translations = {
         "Добавьте один или несколько офисов или регионов обслуживания, чтобы семьи могли быстро увидеть, где доступна поддержка.",
       office1Title: "Главный офис",
       office1Text: "335 US Highway 9<br />Manalapan, NJ 07726",
+      mapTitle: "Найдите нас на карте",
+      directions: "Построить маршрут",
     },
     footer: {
       about:
